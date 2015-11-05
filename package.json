@@ -1,0 +1,11 @@
+{
+  "name": "poetry_generator",
+  "version": "0.0.0",
+  "description": "Generates original pastiche poetry.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cameron Sima",
+  "license": "BSD-2-Clause"
+}
